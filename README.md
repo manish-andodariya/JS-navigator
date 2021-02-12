@@ -1,2 +1,2 @@
 "# JS-navigator"
-![image](E:\Projects\NavigatorJS\ss.png)
+![image](https://github.com/manish-andodariya/JS-navigator/blob/main/ss.png)
